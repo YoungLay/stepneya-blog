@@ -1,0 +1,2 @@
+<?php
+$path = "/stepneya-blog/";
